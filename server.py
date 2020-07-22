@@ -3,8 +3,7 @@ import threading
 
 
 PORT=5050
-# SERVER=socket.gethostbyname(socket.gethostname())
-SERVER=' http://4b52e5051863.ngrok.io'
+SERVER=socket.gethostbyname(socket.gethostname())
 ADDRESS= (SERVER, PORT)
 FORMAT="utf-8"
 

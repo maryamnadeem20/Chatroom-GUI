@@ -6,9 +6,7 @@ from tkinter import font
 from tkinter import ttk
 
 PORT=5050
-# SERVER="114.142.167.1"
-# SERVER="192.168.0.103"
-SERVER='http://a2d6a6f8479f.ngrok.io/'
+SERVER="192.168.0.103"
 ADDRESS= (SERVER, PORT)
 FORMAT="utf-8"
 
